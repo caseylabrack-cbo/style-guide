@@ -10,3 +10,5 @@ come on really
 it's bad. or good?
 ## GDP
 means gross domestic product. nobody knows what that means
+## household
+again, who knows
