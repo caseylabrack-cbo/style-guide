@@ -7,8 +7,8 @@ come on really
 
 # words
 ## inflation
-it's bad. or good?
+defintion of term goes here
 ## GDP
-means gross domestic product. nobody knows what that means
+definition, guidance on how to use term, etc
 ## household
-again, who knows
+definition, etc
